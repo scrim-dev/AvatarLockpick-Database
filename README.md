@@ -1,3 +1,5 @@
+<img src="https://github.com/scrim-dev/AvatarLockpick-Database/blob/main/img/LockpickBanner2.png" alt="BannerImg">
+
 # AvatarLockpick-Database
 Database for AvatarLockpick App
 
